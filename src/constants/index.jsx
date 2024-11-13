@@ -50,7 +50,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website to showcase projects and skills.",
     imgSrc: project3,
-    link: "https://example.com/portfolio-website",
+    link: "https://portfolio-aryan-three.vercel.app/",
   },
   {
     id: 4,
