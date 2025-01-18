@@ -23,12 +23,13 @@ const Hero = () => {
           </a>
         </div>
         <div className="w-full mt-8">
-          <img
-            src={profile}
-            alt="Portrait of Aryan Dagar"
-            className="h-auto w-full  object-cover" // Adjust the object position
-          />
-        </div>
+  <img
+    src={profile}
+    alt="Portrait of Aryan Dagar"
+    className="w-full h-auto object-contain sm:w-3/4 md:w-1/2 lg:w-1/3 mx-auto"
+  />
+</div>
+
       </div>
     </section>
   );
