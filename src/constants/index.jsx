@@ -100,7 +100,7 @@ export const PROJECTS = [
 ];
 
 export const ABOUT =
-  "As a dedicated Full Stack Developer, I specialize in creating dynamic and responsive web applications that provide seamless user experiences. With a strong foundation in both front-end and back-end technologies, I excel in building robust and scalable solutions. My expertise includes working with JavaScript frameworks such as React and Node.js, as well as proficiency in databases like MongoDB and SQL. I am passionate about continuous learning and keeping up-to-date with the latest industry trends, which allows me to implement modern practices and tools in my projects.";
+ "As a passionate Blockchain Developer specializing in Solana, I focus on building decentralized, secure, and high-performance applications on the blockchain. With a strong foundation in both on-chain and off-chain development, I create scalable smart contracts using Rust and Anchor while integrating them seamlessly with modern web technologies like React and Node.js. I’m experienced with Web3, Solana RPCs, wallet integrations, and token economics. My expertise extends to backend systems using MongoDB and SQL, ensuring full-stack proficiency. I'm committed to continuous learning and actively follow cutting-edge blockchain advancements to build innovative and future-ready decentralized solutions.";
 
 export const EXPERIENCES = [
   {
